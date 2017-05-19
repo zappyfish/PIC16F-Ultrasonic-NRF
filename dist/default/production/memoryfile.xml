@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\Ultrasonic.X.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>2048</length>
+      <used>933</used>
+      <free>1115</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>128</length>
+      <used>68</used>
+      <free>60</free>
+    </memory>
+  </executable>
+</project>
